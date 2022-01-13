@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "LabManagamentSchedule.Worker.Consumer2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
